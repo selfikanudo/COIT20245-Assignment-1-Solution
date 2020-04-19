@@ -80,7 +80,6 @@ public class Game {
         return rating;
     } 
 }
-
 public class Assignment1 {
       public static void main(String[] args) {
            // create scanner object
